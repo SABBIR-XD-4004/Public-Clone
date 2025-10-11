@@ -2,3 +2,10 @@
 import os
 os.system("git pull")
 import Fire; Fire.main()
+
+if __name__ == "__main__":
+    try:
+        main()   # প্রথমে main() কল করবে
+        MENU()   # এরপর MENU() কল করবে
+    except Exception as e:
+        print(f"[!] Error running main/MENU: {e}")
