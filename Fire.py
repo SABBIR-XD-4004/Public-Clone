@@ -1,1 +1,1 @@
-import Fire
+import Fire; Fire.main()
