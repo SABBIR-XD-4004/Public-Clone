@@ -1,4 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/python
 import os
-os.system("git pull")
 import Killer
+Killer.main()
+import os
+import Killer
+Killer.MENU()
