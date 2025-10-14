@@ -1,3 +1,3 @@
 import os
 import Fire
-Fire.login()
+Fire.main()
