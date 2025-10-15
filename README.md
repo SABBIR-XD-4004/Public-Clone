@@ -5,14 +5,14 @@ FACEBOOK PASSWORD CRACKING TOOL
 
 
 
-#cd 
+cd 
 
-#rm -rf Public-Clone
+rm -rf Public-Clone
 
-#git clone --depth=1 https://github.com/SABBIR-XD-4004/Public-Clone.git
+git clone --depth=1 https://github.com/SABBIR-XD-4004/Public-Clone.git
 
-#cd Public-Clone
+cd Public-Clone
 
-#chmod +x *
+chmod +x *
 
-#./XD
+./XD
